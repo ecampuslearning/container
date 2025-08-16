@@ -1,12 +1,12 @@
 {
-	"name": "vscode-dev-containers",
+	"name": "container",
 	"version": "0.245.2",
-	"description": "VS Code Dev Containers: Definitions and Templates",
+	"description": "Containers: Definitions and Usecases",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-dev-containers.git"
+		"url": "https://github.com/ecampuslearning/container.git"
 	},
-	"author": "Microsoft Corporation",
+	"author": "ecampusdev",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"files": [
 		"containers",
@@ -27,4 +27,4 @@
 		"yargs": "^17.2.1",
 		"handlebars": "^4.7.7"
 	}
-}
+},

@@ -1,7 +1,7 @@
 {
 	"sourceInformation": {
-		"owner": "microsoft",
-		"repo": "vscode-dev-containers",
+		"owner": "ecampusdev",
+		"repo": "container",
 		"ref": "",
 		"sha": "",
 		"tag": ""
